@@ -1,0 +1,17 @@
+../Core/Src/main.c:100:6:generarSin	2
+../Core/Src/main.c:110:10:calcularARR_DAC	2
+../Core/Src/main.c:124:6:noToneDAC	1
+../Core/Src/main.c:139:6:playToneDAC	3
+../Core/Src/main.c:172:6:noTonePWM	1
+../Core/Src/main.c:182:6:playTonePWM	3
+../Core/Src/main.c:221:6:UART_SendString	1
+../Core/Src/main.c:230:6:mostrarMenu	1
+../Core/Src/main.c:247:5:main	9
+../Core/Src/main.c:364:6:SystemClock_Config	3
+../Core/Src/main.c:411:13:MX_DAC_Init	3
+../Core/Src/main.c:446:13:MX_TIM3_Init	6
+../Core/Src/main.c:524:13:MX_TIM6_Init	3
+../Core/Src/main.c:563:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:592:13:MX_DMA_Init	1
+../Core/Src/main.c:608:13:MX_GPIO_Init	1
+../Core/Src/main.c:648:6:Error_Handler	1
